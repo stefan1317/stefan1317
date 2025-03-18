@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
+![image](https://github.com/user-attachments/assets/a3e04c83-7175-4ecc-a285-4d30f83b7404)<h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A computer enthusiast from Bucharest, Romania.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipsafari.com%2Fclips%2Fo215664-guy-staring-at-computer-meme&psig=AOvVaw1TVZNvnhaQYpXdfJyF0jbG&ust=1742391720047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCB8Y3hk4wDFQAAAAAdAAAAABAS">
+<img align="right" alt="Coding" width="400" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv">
 
 - 🔭 I’m currently working as a Junior Software Engineer at DB Global Technology Bucharest.
 

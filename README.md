@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A computer enthusiast from Bucharest, Romania.</h3>
-<img align="right" alt="Coding" width="600" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv">
+<img align="right" alt="Coding" width="500" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv">
 
 - 🔭 I’m currently working as a Junior Software Engineer at DB Global Technology Bucharest.
 

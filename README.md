@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3e04c83-7175-4ecc-a285-4d30f83b7404)<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A computer enthusiast from Bucharest, Romania.</h3>
 <img align="right" alt="Coding" width="400" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv">
 

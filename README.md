@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A computer enthusiast from Bucharest, Romania.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipsafari.com%2Fclips%2Fo215664-guy-staring-at-computer-meme&psig=AOvVaw1TVZNvnhaQYpXdfJyF0jbG&ust=1742391720047000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCB8Y3hk4wDFQAAAAAdAAAAABAS">
 
 - 🔭 I’m currently working as a Junior Software Engineer at DB Global Technology Bucharest.
 
@@ -34,6 +34,3 @@
 
 <h3 align="left">Other:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-<p><img align="center" width="400" height="155" src="https://github-readme-stats.vercel.app/api?username=stefan1317&show_icons=true&locale=en" alt="stefan1317" />
-<img align="center" height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefan1317&show_icons=true&locale=en&layout=compact" alt="stefan1317" /></p>

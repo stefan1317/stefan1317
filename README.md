@@ -34,12 +34,16 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=angular,html,css" />
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=html" />
+ <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### Backend
@@ -48,19 +52,26 @@
 <img src="assets/akka.svg.webp" alt="Akka" width="80" height="80"/>
 </p>
 
-### Messaging & Concurrency
+### Messaging
 <p>
-<img src="https://cdn.simpleicons.org/apachekafka" width="48" height="48" alt="Apache Kafka"/>
+<img src="https://cdn.simpleicons.org/apachekafka" width="48" alt="Kafka"/>
 </p>
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+<img src="assets/h2.png" alt="H2 Database" width="40" height="40"/>
 </p>
 
 ### Tools & OS
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
 
 ---

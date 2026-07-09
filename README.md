@@ -1,25 +1,70 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A computer enthusiast from Bucharest, Romania.</h3>
-<img align="right" alt="Coding" width="400" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv">
+<h1 align="center">👋 Hi, I'm Stefan</h1>
 
-- 📫 How to reach me **stefancostin.manta@yahoo.com**
+<h3 align="center">
+💻 Backend Developer | ☕ Java & Spring Enthusiast | 🇷🇴 Based in Bucharest
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stefan-costin-manta-47b581223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefan-costin-manta-47b581223" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+applications;Java+%7C+Spring+Boot+%7C+Akka+%7C+Angular;Always+learning+something+new..." alt="Typing SVG" />
 </p>
 
-<h3 align="left">Programming Languages:</h3>
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<img align="right" width="380" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv" alt="Coding"/>
 
-<h3 align="left">Frontend Development:</h3>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+## 🚀 About Me
 
-<h3 align="left">Backend Development:</h3>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
+- 🌱 Constantly improving my **Java, Spring Boot, Angular & TypeScript** skills
+- 💡 Passionate about building scalable backend systems and modern web applications
+- 🖥️ I enjoy solving problems, learning new technologies, and creating useful software
+- 📍 Based in **Bucharest, Romania**
+- 📫 Reach me at **stefancostin.manta@yahoo.com**
 
-<h3 align="left">Database:</h3>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<br>
 
-<h3 align="left">Other:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/stefan-costin-manta-47b581223" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,html,css" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="assets/akka.svg" alt="Akka" width="40" height="40"/>
+</p>
+
+### Messaging & Concurrency
+<p>
+<img src="https://cdn.simpleicons.org/apachekafka" width="48" height="48" alt="Apache Kafka"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & OS
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
+</p>
+
+---
+
+## ✨ A Quote I Like
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House

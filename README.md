@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Constantly improving my **Java, Spring Boot, Akka and Kafka** skills
-- 💡 Passionate about building scalable backend systems and modern web applications
-- 🖥️ I enjoy solving problems, learning new technologies, and creating useful software
+- 🌱 Constantly improving my **Java, Spring Boot, Akka and Kafka** skills.
+- 💡 Passionate about building scalable backend systems and modern web applications.
+- 🖥️ I enjoy solving problems, learning new technologies, and creating useful software.
 - 📍 Based in **Bucharest, Romania**
 - 📫 Reach me at **stefancostin.manta@yahoo.com**
 

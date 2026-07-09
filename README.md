@@ -39,13 +39,6 @@
 <img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=angular" />
-<img src="https://skillicons.dev/icons?i=html" />
- <img src="https://skillicons.dev/icons?i=css" />
-</p>
-
 ### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
@@ -57,12 +50,19 @@
 <img src="https://cdn.simpleicons.org/apachekafka" width="48" alt="Kafka"/>
 </p>
 
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=html" />
+ <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
 ### Database
 <p>
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="assets/h2.png" alt="H2 Database" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
+<img src="assets/h2.png" alt="H2 Database" width="85" height="85"/>
 </p>
 
 ### Tools & OS

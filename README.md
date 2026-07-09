@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+applications;Java+%7C+Spring+Boot+%7C+Akka+%7C+Angular;Always+learning+something+new..." alt="Typing SVG" />
 </p>
 
-<img align="right" width="400" src="assets/el_gato.gif" alt="El Gato"/>
+<img align="right" width="375" src="assets/el_gato.gif" alt="El Gato"/>
 
 ## 🚀 About Me
 

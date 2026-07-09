@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+clean+and+scalable+applications;Java+%7C+Spring+Boot+%7C+Akka+%7C+Angular;Always+learning+something+new..." alt="Typing SVG" />
 </p>
 
-<img align="right" width="380" src="https://spaces-cdn.clipsafari.com/fonc3iaqjfz274m12cl81e9ottfv" alt="Coding"/>
+<img align="right" width="400" src="assets/el_gato.gif" alt="El Gato"/>
 
 ## 🚀 About Me
 
-- 🌱 Constantly improving my **Java, Spring Boot, Angular & TypeScript** skills
+- 🌱 Constantly improving my **Java, Spring Boot, Akka and Kafka** skills
 - 💡 Passionate about building scalable backend systems and modern web applications
 - 🖥️ I enjoy solving problems, learning new technologies, and creating useful software
 - 📍 Based in **Bucharest, Romania**

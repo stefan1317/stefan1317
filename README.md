@@ -45,7 +45,7 @@
 ### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
-<img src="assets/akka.svg" alt="Akka" width="40" height="40"/>
+<img src="assets/akka.svg.webp" alt="Akka" width="80" height="80"/>
 </p>
 
 ### Messaging & Concurrency

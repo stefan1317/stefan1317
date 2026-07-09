@@ -61,8 +61,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="assets/h2.png" alt="H2 Database" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48"/>
+<img src="assets/h2.png" alt="H2 Database" width="85" height="85"/>
 </p>
 
 ### Tools & OS

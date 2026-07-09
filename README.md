@@ -39,13 +39,6 @@
 <img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=angular" />
-<img src="https://skillicons.dev/icons?i=html" />
- <img src="https://skillicons.dev/icons?i=css" />
-</p>
-
 ### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
@@ -55,6 +48,13 @@
 ### Messaging
 <p>
 <img src="https://cdn.simpleicons.org/apachekafka" width="48" alt="Kafka"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular" />
+<img src="https://skillicons.dev/icons?i=html" />
+ <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
 ### Database
